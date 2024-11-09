@@ -30,7 +30,7 @@ PolyPhrase supports the following languages for translation:
 
 ## **UI Design & Aesthetics**
 
-The app features a colorful and modern design, with vibrant gradients and a playful layout. The main screen is clean and easy to navigate, with bold typography and smooth transitions for a better user experience.
+The app features a colorful, modern design, vibrant gradients, and a playful layout. The main screen is clean and easy to navigate, with bold typography and smooth transitions for a better user experience.
 
 - **Gradient Colors**: The app utilizes a dynamic gradient background with colors like Aqua, Pink, Light Purple, Turquoise, and Light Blue.
 
@@ -48,5 +48,10 @@ The app features a colorful and modern design, with vibrant gradients and a play
 5. flutter_tts: ^4.0.2
 6. speech_to_text: ^7.0.0
 7. easy_splash_screen: ^1.0.4
+
+
+## **License**
+This project is licensed under the MIT License - see the LICENSE file for details
+
 
 
