@@ -4,6 +4,11 @@ PolyPhrase is a Flutter-based mobile app designed to facilitate easy language tr
 
 ---
 
+## Demo Video
+
+[![Demo Video](https://raw.githubusercontent.com/YousefBahgat/PolyPhrase/refs/heads/master/thumbnail.png)](https://drive.google.com/file/d/1D5Fi9hgL71nEFTTxg627sGaZu3C53-8s/view?usp=sharing)
+
+---
 ## **Features**
 
 - **Multi-language Translation**: Easily translate between 5 languages.
