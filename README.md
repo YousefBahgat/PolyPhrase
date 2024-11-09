@@ -51,7 +51,7 @@ The app features a colorful, modern design, vibrant gradients, and a playful lay
 
 
 ## **License**
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 
 
