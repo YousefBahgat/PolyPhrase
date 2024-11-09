@@ -1,0 +1,42 @@
+name: polyphrase
+description: "A translator App."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  translator: ^1.0.0
+  flutter_riverpod: ^2.6.1
+  flutter_tts: ^4.0.2
+  speech_to_text: ^7.0.0
+  easy_splash_screen: ^1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons:
+  flutter_lints: ^4.0.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/polyphrase.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  adaptive_icon_background: "#ffffff" # You can use a color or image for the background
+  adaptive_icon_foreground: "assets/polyphrase.png" # For adaptive icons on Android
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/polyphrase.png
